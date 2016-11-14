@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.3">
+<extension type="package" version="3.3" method="upgrade">
+	<name>ChatBro - Live Group Chat</name>
+	<author>ChatBro Team</author>
+	<creationDate>Nov 2016</creationDate>
+	<packagename>chatbro</packagename>
+	<version>1.0.0</version>
+	<url>http://www.chatbro.com</url>
+	<packager>ChatBro Team</packager>
+	<packageurl>http://www.chatbro.com</packageurl>
+	<description>Chat for your community with social networks integration. Syncronizes chat conversation with Telegram messenger. Allows your visitors to chat online in live group chat with you and each other. Skyrocket user engagement and overall time spent on your website.</description>
+	<update>http://www.chatbro.com</packageurl>
+	<files folder="packages">
+		<file type="component" id="com_chatbro"></file>
+	</files>
 </extension>
 
