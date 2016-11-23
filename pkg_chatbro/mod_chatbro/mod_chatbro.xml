@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="module" version="3.3" client="site" method="upgrade">
+	<name>ChatBro</name>
+	<author>ChatBro Team</author>
+	<creationDate>Nov 2016</creationDate>
+	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+	<version>1.1.0</version>
+	<description>Live chat for your community with social networks integration. Chat conversation is being syncronized with popular messengers. Allows your visitors to chat online in live group chat with you and each other. Skyrocket user engagement and overall time spent on your website.
+	</descriptioN>
+	<files>
+		<filename>mod_chatbro.xml</filename>
+		<filename module="mod_chatbro">mod_chatbro.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+	</files>
+	<config>
+	</config>
+</extension>
